@@ -46,6 +46,6 @@ knitr::include_graphics("Door_entrance.png")
 
 - There is also a doorbell if someone needs to get your attention. The doorbell is set on silent but will glow to notify you that someone is at the door. The doorbell is located beside the HDMI matrix switch.
 
-```{r buzzer,echo=F, fig.align="center",out.width="100%",fig.cap="Doorbell buzzer & location in BOLD room"}
+```{r buzzer,echo=F, fig.align="center",out.width="100%",fig.cap="Doorbell buzzer and location in BOLD room"}
 knitr::include_graphics("Door_buzzer.png")
 ```
